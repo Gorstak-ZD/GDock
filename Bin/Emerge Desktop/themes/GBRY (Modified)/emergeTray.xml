@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<Settings>
+    <X>-72</X>
+    <Y>-1</Y>
+    <Width>156</Width>
+    <Height>32</Height>
+    <ZPosition>Bottom</ZPosition>
+    <HorizontalDirection>Left</HorizontalDirection>
+    <VerticalDirection>Up</VerticalDirection>
+    <DirectionOrientation>horizontal</DirectionOrientation>
+    <AutoSize>false</AutoSize>
+    <IconSize>16</IconSize>
+    <IconSpacing>3</IconSpacing>
+    <Style>%ThemeDir%\Styles\tray.eds</Style>
+    <SnapMove>true</SnapMove>
+    <SnapSize>true</SnapSize>
+    <DynamicPositioning>true</DynamicPositioning>
+    <ClickThrough>0</ClickThrough>
+    <Resolution>0,0,800,1280</Resolution>
+    <Monitor>0</Monitor>
+    <UnhideIcons>true</UnhideIcons>
+    <AnchorPoint>BottomRight</AnchorPoint>
+    <AutoSizeLimit>0</AutoSizeLimit>
+    <StartHidden>false</StartHidden>
+    <TitleBarFont>Arial-16</TitleBarFont>
+    <TitleBarText></TitleBarText>
+    <InfoFont>Tahoma-10</InfoFont>
+    <InfoTitleFont>Tahoma-Bold-12</InfoTitleFont>
+    <BorderColor>0,0,0</BorderColor>
+    <TextColor>0,0,0</TextColor>
+    <GradientFrom>255,255,255</GradientFrom>
+    <GradientTo>255,255,128</GradientTo>
+    <Alpha>0</Alpha>
+    <GradientMethod>Vertical</GradientMethod>
+</Settings>

@@ -1,0 +1,1 @@
+.ie	%programfiles%\internet explorer\iexplore.exe

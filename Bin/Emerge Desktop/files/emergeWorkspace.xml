@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Menus>
+    <RightMenu>
+        <item>
+            <Type>4</Type>
+            <Name>This PC</Name>
+            <Value>CSIDL_DRIVES</Value>
+        </item>
+        <item>
+            <Type>4</Type>
+            <Name>Recycle Bin</Name>
+            <Value>CSIDL_BITBUCKET</Value>
+        </item>
+        <item>
+            <Type>0</Type>
+        </item>
+        <item>
+            <Type>101</Type>
+            <Name>Start Menu</Name>
+            <Value>%StartMenu%|%CommonStartMenu%</Value>
+        </item>
+        <item>
+            <Name>Quick Launch</Name>
+            <Type>101</Type>
+            <Value>%AppData%\Microsoft\Internet Explorer\Quick Launch</Value>
+        </item>
+        <item>
+            <Name>Desktop</Name>
+            <Type>101</Type>
+            <Value>%Desktop%|%CommonDesktop%</Value>
+        </item>
+        <item>
+            <Type>0</Type>
+        </item>
+        <item>
+            <Type>103</Type>
+            <Name>Settings</Name>
+            <Value></Value>
+        </item>
+        <item>
+            <Type>104</Type>
+            <Name>Help</Name>
+            <Value></Value>
+        </item>
+        <item>
+            <Type>1</Type>
+            <Name>Display Properties</Name>
+            <Value>desk.cpl</Value>
+        </item>
+        <item>
+            <Type>0</Type>
+        </item>
+        <item>
+            <Type>2</Type>
+            <Name>Run</Name>
+            <Value>Run</Value>
+        </item>
+        <item>
+            <Type>2</Type>
+            <Name>Logoff</Name>
+            <Value>Logoff</Value>
+        </item>
+        <item>
+            <Type>2</Type>
+            <Name>Shutdown</Name>
+            <Value>Shutdown</Value>
+        </item>
+    </RightMenu>
+</Menus>
